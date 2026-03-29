@@ -1,0 +1,9 @@
+{
+  "name": "sana-ai",
+  "version": "1.0.0",
+  "description": "SANA AI school motivation site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
